@@ -188,10 +188,10 @@ More projects and details are available on my **[portfolio](https://djebbar-babo
 </p>
 
 <p align="center">
-  <img src="https://djebbarbabouri.github.io/djebbarbabouri/stats/github-stats.svg"
+  <img src="https://djebbarbabouri.github.io/djebbarBABOURI/stats/github-stats.svg"
        height="160" alt="GitHub Stats">
   &nbsp;&nbsp;
-  <img src="https://djebbarbabouri.github.io/djebbarbabouri/stats/top-languages.svg"
+  <img src="https://djebbarbabouri.github.io/djebbarBABOURI/stats/top-languages.svg"
        height="160" alt="Top Languages">
 </p>
 
