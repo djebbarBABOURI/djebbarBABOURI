@@ -32,7 +32,7 @@ I started with **full-stack web development** before specialising in **Artificia
 At **CRIL** (Centre de Recherche en Informatique de Lens), I worked on **uncertainty and calibration in LLMs**. I have also built LLM-powered applications (RAG, MCP, Ollama) and worked on CNN models for image tasks.
 
 - 🔭 Currently: **Master 2 Computer Science – Artificial Intelligence** (Université d'Artois)
-- 🧠 Interests: LLM reliability and calibration, RAG systems, AI agents, deep learning for vision
+- 🧠 Interests: LLMs & AI agents, RAG systems, AI agents, deep learning for vision
 - 🛠️ Approach: rigorous, curious, and pragmatic. I measure results, document my work and iterate
 - 🌍 Languages: French (B2), English (B1)
 
@@ -179,7 +179,7 @@ More projects and details are available on my **[portfolio](https://djebbar-babo
   <a href="mailto:djebbarbabouri@gmail.com">
     <img src="https://img.shields.io/badge/Email-djebbarbabouri%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="www.linkedin.com/in/djebbar-babouri-567847283">
+  <a href="https://www.linkedin.com/in/djebbar-babouri-567847283/">
     <img src="https://img.shields.io/badge/LinkedIn-Djebbar_Babouri-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://djebbar-babouri-portfolio-5kbc.vercel.app/">
@@ -188,6 +188,10 @@ More projects and details are available on my **[portfolio](https://djebbar-babo
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=djebbarBABOURI&show_icons=true&theme=transparent&hide_border=true" alt="GitHub stats" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=djebbarBABOURI&layout=compact&theme=transparent&hide_border=true" alt="Top languages" height="160" />
+  <img src="https://djebbarbabouri.github.io/djebbarbabouri/stats/github-stats.svg"
+       height="160" alt="GitHub Stats">
+
+  <img src="https://djebbarbabouri.github.io/djebbarbabouri/stats/top-languages.svg"
+       height="160" alt="Top Languages">
 </p>
+
