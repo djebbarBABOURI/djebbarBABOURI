@@ -10,9 +10,9 @@ Software Development · Artificial Intelligence · Machine Learning · LLMs · R
 
 <br />
 
-📍 Lens, France &nbsp;·&nbsp; 🎓 Master 2 Computer Science (AI), Université d'Artois
+Lens, France &nbsp;·&nbsp; Master 2 Computer Science (AI), Université d'Artois
 
-🟢 **Available for an end-of-studies internship (12 weeks minimum) in Data, Machine Learning or AI, starting end of March 2027**
+**Available for an end-of-studies internship (12 weeks minimum) in Data, Machine Learning or AI, starting end of March 2027**
 
 <br />
 
@@ -31,10 +31,10 @@ I started with **full-stack web development** before specialising in **Artificia
 
 At **CRIL** (Centre de Recherche en Informatique de Lens), I worked on **uncertainty and calibration in LLMs**. I have also built LLM-powered applications (RAG, MCP, Ollama) and worked on CNN models for image tasks.
 
-- 🔭 Currently: **Master 2 Computer Science – Artificial Intelligence** (Université d'Artois)
-- 🧠 Interests: LLMs & AI agents, RAG systems, AI agents, deep learning for vision
-- 🛠️ Approach: rigorous, curious, and pragmatic. I measure results, document my work and iterate
-- 🌍 Languages: French (B2), English (B1)
+- Currently: **Master 2 Computer Science – Artificial Intelligence** (Université d'Artois)
+- Interests: LLMs & AI agents, RAG systems, AI agents, deep learning for vision
+- Approach: rigorous, curious, and pragmatic. I measure results, document my work and iterate
+- Languages: French (B2), English (B1)
 
 ---
 
@@ -135,18 +135,18 @@ More projects and details are available on my **[portfolio](https://djebbar-babo
 
 ## Research & experience
 
-### 🔬 AI Research Intern: CRIL, Lens (March – June 2026)
+### AI Research Intern: CRIL, Lens (March – June 2026)
 
 - Studied the **linguistic uncertainty of LLMs** and their ability to express confidence, on French and English corpora.
 - Compared four open-source LLMs (**LLaMA 3.1 8B, Mistral 7B, Gemma 3 4B, Granite 4 Tiny**) using several uncertainty and calibration metrics, and analysed robustness to paraphrasing and across languages.
 - Implemented calibration methods: **ECE reduced by 27 % to 81 %** and **Brier Score reduced by up to 49.2 %**.
 
-### 💻 Full-Stack Web Developer Intern: BIGNOVA, remote (February – August 2025)
+### Full-Stack Web Developer Intern: BIGNOVA, remote (February – August 2025)
 
 - Full-stack development with **React.js, Next.js, Node.js, Express.js and FastAPI**, and design of RESTful APIs for business data.
 - Maintained production modules and fixed **100 % of reported bugs**, within an Agile team using Git, GitHub and code reviews.
 
-### 💻 Full-Stack Web Developer Intern: ESTIN, Béjaïa (January – June 2023)
+### Full-Stack Web Developer Intern: ESTIN, Béjaïa (January – June 2023)
 
 - Built a **Django** back-end module (database, views, users) and responsive front-end interfaces in HTML5, CSS3, JavaScript and Bootstrap, integrated into the existing architecture.
 
@@ -167,10 +167,10 @@ More projects and details are available on my **[portfolio](https://djebbar-babo
 
 ## Currently working on
 
-- 🔬 Deepening my work on LLM calibration and reliability
-- 🤖 Building LLM applications with RAG and MCP
-- 🧪 Deep learning for computer vision (CNN fine-tuning and evaluation)
-- 🎯 Looking for an end-of-studies internship in **Data, Machine Learning or AI**
+- Deepening my work on LLM calibration and reliability
+- Building LLM applications with RAG and MCP
+- Deep learning for computer vision (CNN fine-tuning and evaluation)
+- Looking for an end-of-studies internship in **Data, Machine Learning or AI**
 
 ---
 
