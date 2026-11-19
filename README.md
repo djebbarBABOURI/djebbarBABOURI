@@ -16,10 +16,10 @@ Lens, France &nbsp;·&nbsp; Master 2 Computer Science (AI), Université d'Artois
 
 <br />
 
-<a href="https://djebbar-babouri-portfolio-5kbc.vercel.app/">🌐 Portfolio</a> ·
+<a href="https://djebbar-babouri-portfolio-5kbc.vercel.app/">Portfolio</a> ·
 <a href="www.linkedin.com/in/djebbar-babouri-567847283">LinkedIn</a> ·
 <a href="mailto:djebbarbabouri@gmail.com">Email</a> ·
-<a href="https://djebbarbabouri.github.io/resume/">📄 Resume</a>
+<a href="https://djebbarbabouri.github.io/resume/">Resume</a>
 
 </div>
 
